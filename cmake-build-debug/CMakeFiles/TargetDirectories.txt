@@ -1,0 +1,3 @@
+/Users/alexistorres/Documents/Code/EE312/Projects/Project5SetADT/Project5_starter_files 2/cmake-build-debug/CMakeFiles/Project5_starter_files_2.dir
+/Users/alexistorres/Documents/Code/EE312/Projects/Project5SetADT/Project5_starter_files 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexistorres/Documents/Code/EE312/Projects/Project5SetADT/Project5_starter_files 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
